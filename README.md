@@ -1,2 +1,2 @@
 # SQL-Analysis
-This repository contains SQL Data Analysis.
+This repository contains a collection of SQL Data Analysis.
